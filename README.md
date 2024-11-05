@@ -19,8 +19,4 @@ Bomavgift: Elbil: 0,1 kr/km. Bensinbil: 0,3 kr/km.
 
 FOR OPPGAVEN:
 
-********************************************************
-*                                                      *
-* Oppgaven løses med en årlig kjørelengde på 40.000 km *
-*                                                      *
-********************************************************
+Oppgaven løses med en årlig kjørelengde på 40.000 km
